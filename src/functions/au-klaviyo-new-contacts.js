@@ -18,7 +18,7 @@ app.http('au-klaviyo-new-contacts', {
 //TODO Safe Format text for names
 function processProfiles(ostendoProfiles,listMap) {
     console.log(ostendoProfiles)
-    console.log(listMap)
+    //console.log(listMap)
     return {};
 }
 
